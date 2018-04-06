@@ -1,6 +1,6 @@
 # mirrorAnimation
 
-To run in maya simply copy the .py file into scripts folder,
+To run in maya simply copy the mirrorAnimation.py file into scripts folder,
 then in maya write
 ```
 import mirrorAnimation
@@ -10,5 +10,4 @@ mirrorAnimationUI = mirrorAnimation.ui()
 
 mirrorAnimationUI.show()
 ```
-Into the script editor and if you care to, add to shelfi
-
+Into the script editor and if you care to, add to shelf
